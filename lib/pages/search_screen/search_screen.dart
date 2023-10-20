@@ -38,7 +38,7 @@ class SearchScreen extends StatelessWidget {
                   keyboardType: TextInputType.text,
                   decoration: InputDecoration(
                   
-                    prefixIcon: Icon(
+                    prefixIcon: const Icon(
                       Icons.search,
                     ),
                     border: OutlineInputBorder(
